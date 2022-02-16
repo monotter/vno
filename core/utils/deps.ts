@@ -17,7 +17,7 @@ export {
   Context,
   Router,
   send,
-} from "https://deno.land/x/oak@v10.0.0/mod.ts";
+} from "https://deno.land/x/oak@v10.2.1/mod.ts";
 export { superoak } from "https://deno.land/x/superoak@4.5.0/mod.ts"; // testing lib for oak
 
 // third-party
